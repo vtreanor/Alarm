@@ -6,3 +6,5 @@ simple Desktop Alarm Clock.
 
 
 ![Alarm Clock](https://github.com/vtreanor/Alarm/blob/master/alarmClock.jpg)
+
+For a more complete description please go to: [no-paper](http://no-paper.co.uk/alarmClock)
