@@ -5,4 +5,4 @@ be the powerhouse behind Task Manager. So this project uses schtasks.exe with a 
 simple Desktop Alarm Clock.
 
 
-->![Alarm Clock](https://github.com/vtreanor/Alarm/blob/master/alarmClock.jpg)<-
+![Alarm Clock](https://github.com/vtreanor/Alarm/blob/master/alarmClock.jpg)
