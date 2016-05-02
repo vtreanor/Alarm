@@ -4,6 +4,8 @@ if all you need is a quick and easy Alarm Clock. There is however a command line
 be the powerhouse behind Task Manager. So this project uses schtasks.exe with a Visual Studio 2015 front end to produce a 
 simple Desktop Alarm Clock.
 
+The time and date inputs are preconfigured for 'now'. Adjust these and press set, wait for confirmation on the statusbar and exit the program. The OS will do the rest!
+
 
 ![Alarm Clock](https://github.com/vtreanor/Alarm/blob/master/alarmClock.jpg)
 
